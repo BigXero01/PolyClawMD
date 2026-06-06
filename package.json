@@ -1,0 +1,20 @@
+{
+  "name": "trading-analysis-agent",
+  "version": "1.0.0",
+  "description": "AI-powered BTC and Polymarket trading analysis agent",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 3000",
+    "build": "echo 'Static site - no build needed'",
+    "test": "echo 'Tests can be added here'"
+  },
+  "keywords": [
+    "trading",
+    "bitcoin",
+    "polymarket",
+    "ai",
+    "analysis"
+  ],
+  "author": "",
+  "license": "MIT"
+}
